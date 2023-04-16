@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOPSERGEY;Database=warehouse;Trusted_Connection=True;TrustServerCertificate=True",
+    "LaptopConnection": "Server=LAPTOPSERGEY;Database=warehouse;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
