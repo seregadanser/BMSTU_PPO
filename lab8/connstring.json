@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "Connection": "Server=LAPTOPSERGEY;Database=warehouse; TrustServerCertificate=True;User Id = notautorise; Password=111111",
+    "MSSQL": {
+      "unlogin": {
+        "DesktopConnection": "Server=DESKTOPSERGEY;Database=warehouse;Trusted_Connection=True;TrustServerCertificate=True",
+        "LaptopConnection": "Server=LAPTOPSERGEY;Database=warehouse; TrustServerCertificate=True;User Id = notautorise; Password=111111"
+      }
+    }
+
+  }
+}
